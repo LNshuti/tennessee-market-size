@@ -1,4 +1,4 @@
-# Tennessee Market Size : Use Federal Reserve Data to Estimate the Size of The Tennessee Market
+# Use Federal Reserve Data to Estimate the Size of The Tennessee Market
 
 
 ![image](https://github.com/LNshuti/tennessee-market-size/assets/13305262/61f770b4-da0a-4845-a7ca-20f05b93dd32)
